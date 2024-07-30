@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../html project/05PasswordGenrator"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../lib"
+		},
+		{
+			"path": "../mail"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
